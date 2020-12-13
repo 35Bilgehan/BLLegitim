@@ -1,1 +1,1 @@
-# BLLegitim
+ÇALIŞTIRMANIZ İÇİN Python yüklü olmalıdır
